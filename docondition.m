@@ -1,0 +1,3 @@
+function ans = docondition()
+    
+end
